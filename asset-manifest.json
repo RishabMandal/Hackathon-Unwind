@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Hackathon-Unwind/static/css/main.92b3c521.css",
+    "main.js": "/Hackathon-Unwind/static/js/main.ff4b57f0.js",
+    "static/js/787.ea540aa1.chunk.js": "/Hackathon-Unwind/static/js/787.ea540aa1.chunk.js",
+    "static/media/podcast2.m4a": "/Hackathon-Unwind/static/media/podcast2.e87ef63d071c0d1738fe.m4a",
+    "static/media/podcast4.m4a": "/Hackathon-Unwind/static/media/podcast4.6aba928cd52eeab03fd8.m4a",
+    "static/media/podcast1.m4a": "/Hackathon-Unwind/static/media/podcast1.c5c6376ff1ceffc8b6a8.m4a",
+    "static/media/audio2.mp3": "/Hackathon-Unwind/static/media/audio2.83ceca8ed730fd82608c.mp3",
+    "static/media/audio4.mp3": "/Hackathon-Unwind/static/media/audio4.c8cbe9608fc68cc9df15.mp3",
+    "static/media/audio3.mp3": "/Hackathon-Unwind/static/media/audio3.a5c6ac7a2ac02d065ffc.mp3",
+    "static/media/audio1.mp3": "/Hackathon-Unwind/static/media/audio1.8fa1582e27545e176952.mp3",
+    "static/media/socialize.jpg": "/Hackathon-Unwind/static/media/socialize.c2f51f77f04e14174f3a.jpg",
+    "static/media/yoga.jpg": "/Hackathon-Unwind/static/media/yoga.d867f79ac29c3e95c3fb.jpg",
+    "static/media/aboutImg.jpg": "/Hackathon-Unwind/static/media/aboutImg.0eb54009f0c0012875d8.jpg",
+    "static/media/breathing.jpg": "/Hackathon-Unwind/static/media/breathing.63fe09b2a5fcd78ad696.jpg",
+    "static/media/exercise.jpg": "/Hackathon-Unwind/static/media/exercise.53c686c10a8a5dc12226.jpg",
+    "static/media/walking.jpg": "/Hackathon-Unwind/static/media/walking.a1865681fb0faeb68a2b.jpg",
+    "static/media/Breathe.jpg": "/Hackathon-Unwind/static/media/Breathe.99f1a1a2a02403146755.jpg",
+    "static/media/LoginPageImage.jpg": "/Hackathon-Unwind/static/media/LoginPageImage.00882d684e1329320f0d.jpg",
+    "static/media/days50.jpg": "/Hackathon-Unwind/static/media/days50.4f5044bf599e4fc5c12a.jpg",
+    "static/media/days10.jpg": "/Hackathon-Unwind/static/media/days10.49485a7116bab2ef7f7e.jpg",
+    "static/media/Landingpageimagejpg.jpg": "/Hackathon-Unwind/static/media/Landingpageimagejpg.3f3516e27ab9c63c0092.jpg",
+    "static/media/unwind-logo.png": "/Hackathon-Unwind/static/media/unwind-logo.c56ca8ac6ab7dd7dd328.png",
+    "static/media/days25.jpg": "/Hackathon-Unwind/static/media/days25.19e95e5a25f6b81f7307.jpg",
+    "static/media/year1.jpg": "/Hackathon-Unwind/static/media/year1.ccf1048b931d9d31a711.jpg",
+    "static/media/meditation.jpg": "/Hackathon-Unwind/static/media/meditation.4399db8187fa784f164e.jpg",
+    "static/media/days100.jpg": "/Hackathon-Unwind/static/media/days100.5203d15849f20e2e4bdb.jpg",
+    "index.html": "/Hackathon-Unwind/index.html",
+    "main.92b3c521.css.map": "/Hackathon-Unwind/static/css/main.92b3c521.css.map",
+    "main.ff4b57f0.js.map": "/Hackathon-Unwind/static/js/main.ff4b57f0.js.map",
+    "787.ea540aa1.chunk.js.map": "/Hackathon-Unwind/static/js/787.ea540aa1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92b3c521.css",
+    "static/js/main.ff4b57f0.js"
+  ]
+}
